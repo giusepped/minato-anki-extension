@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Minato Anki Extension",
+  "description": "makes a CSV out of minato lesson words that can be imported into anki flashcards",
+  "version": "1.0",
+  "action": {}
+}
